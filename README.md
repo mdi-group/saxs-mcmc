@@ -1,6 +1,5 @@
 ## Introduction
-This is a Pythton script using Markov Chain Monte Carlo (MCMC) sampling with a neural network surrogate model to predict colloidal interaction parameters (effective charge and Debye length) from a Small Angle X-ray Scattering (SAXS) profile.  
-
+This is a Python script using Markov Chain Monte Carlo (MCMC) sampling with a neural network surrogate model to predict colloidal interaction parameters (effective charge and Debye length) from a Small Angle X-ray Scattering (SAXS) profile.  
 If you use this code in your work, please consider citing the following article:
 
 >Wong K, Runzhang Q, Ye Y, Zhi L, Guldin S, Butler K. Predicting Colloidal Interaction Parameters from Small Angle X-Ray Scattering Curves using Artificial Neural Networks and Markov Chain Monte Carlo Sampling . ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-swz2p-v2
