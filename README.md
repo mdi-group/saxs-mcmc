@@ -15,8 +15,8 @@ In order to run the code, you will also need to download the following files fro
 
 ## Requirements
 The main language is Python 3.9.17.
-* Tensorflow: v2.12.0
-* EMCEE: v3.1.4
-* Corner: v2.2.2
-* Seaborn: v0.12.2
-* Scikit learn: v1.3.0 
+* Tensorflow: 2.12.0
+* EMCEE: 3.1.4
+* Corner: 2.2.2
+* Seaborn: 0.12.2
+* Scikit learn: 1.3.0 
