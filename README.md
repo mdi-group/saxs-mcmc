@@ -15,3 +15,5 @@ In order to run the code, you will also need to download the following files fro
 
 ## Requirements
 The main language is Python 3.9.17.
+* Tensorflow
+* EMCEE
