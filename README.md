@@ -32,4 +32,8 @@ The main language is Python 3.9.17.
 * EMCEE: 3.1.4
 * Corner: 2.2.2
 * Seaborn: 0.12.2
-* Scikit learn: 1.3.0 
+* Scikit learn: 1.3.0
+
+## Support
+
+This work was supported by the EPSRC grants: EP/Y000552/1 EP/Y014405/1.
