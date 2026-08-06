@@ -10,7 +10,7 @@ If you use this code in your work, please consider citing the following article:
 - MCMC.ipynb: Code to perform MCMC sampling
 - Experimental_Data.dat: Experimentally obtained SAXS data of a gold nanoparticle solution
 
-In order to run the code, you will also need to download the following files from this link: https://www.dropbox.com/scl/fo/xmixk0groja42gd3l2bkc/ANGG2Au59XLZZWhgHAnmElU?rlkey=i6dik3cd6w2tuam7jtwcs6f08&dl=0 
+In order to run the code, you will also need to download the following files from this link: https://drive.google.com/drive/folders/1zsL03fIaFkDEzq2n0Vvljho-5fhH609o?usp=drive_link
 - SAXS_Data.pickle: Contains 250,000 SAXS profiles which were used in training the neural network surrogate
 - 2Param_Inverse_Model.h5 - Contains the weights of the trained neural network surrogate for the MCMC sampling
 
